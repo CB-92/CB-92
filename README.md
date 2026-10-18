@@ -6,7 +6,7 @@ Backend developer based in Pisa, Italy. I build Java/Spring Boot and Python serv
 
 - Backend services in **Java / Spring Boot** and **Python / FastAPI**, on top of a modular in-house platform whose roadmap I own
 - **Software supply-chain security** in CI/CD: SAST, secret scanning, CycloneDX SBOMs, CVE and license checks
-- **Architecture Decision Records** and engineering practices aligned with ISO/IEC 27001, NIS2 and the Cyber Resilience Act
+- **Architecture Decision Records**, and studying how to align engineering practices with ISO/IEC 27001, NIS2 and the Cyber Resilience Act
 
 **Open source**
 
